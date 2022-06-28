@@ -26,6 +26,4 @@ Travis CI
 
 AND 
 
-👥 **Students @ [The League of Amazing Programmers](https://www.jointheleague.org)**
-- Email: [info@jointheleague.org](mailto:info@jointheleague.org)
-- Github: [@jointheleague](https://github.com/jointheleague)
+👥 **Amy Zhao**
