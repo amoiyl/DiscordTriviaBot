@@ -1,3 +1,5 @@
+2020 Work
+
 <h1 style="text-align:center">Discord Bot v2</h1>
 
 > Java application that connects to a Discord channel, and responds to commands sent there.
