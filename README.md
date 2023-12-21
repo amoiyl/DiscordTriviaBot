@@ -12,20 +12,6 @@ Travis CI
 
 <br />
 
-## Documentation
-
-- Information on getting started can be found at [level6.jointheleague.org](https://level6.jointheleague.org)
 
 ## Authors
-
-👤 **Matt Freedman**
-- Email: [matt.freedman@jointheleague.org](mailto:matt.freedman@jointheleague.org)
-- Github: [@mjfre](https://github.com/mjfre)
-
-👤 **Keith Groves**
-- Email: [keith.groves@jointheleague.org](mailto:keith.groves@jointheleague.org)
-- Github: [@keithagroves](https://github.com/keithagroves)
-
-AND 
-
 👥 **Amy Zhao**
